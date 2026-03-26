@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=80&section=header&reversal=true"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=80&section=header&reversal=true"/>
 </p>
 
 <h1 align="center">Mariana Lima</h1>
