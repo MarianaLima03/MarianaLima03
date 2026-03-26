@@ -12,7 +12,7 @@ explorando novas tecnologias e criando interfaces modernas e funcionais. Sou apa
 
 </div>
 
-<h1>🌐 Conecte-se comigo:</h1>
+<p>🌐 Conecte-se comigo:</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariana-lima-642844345" target="_blank">
