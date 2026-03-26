@@ -1,6 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=80&section=header&reversal=true"/><h1 align="center">Mariana Lima</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=80&section=header&reversal=true"/>
+</p>
 
+<h1 align="center">Mariana Lima</h1>
 <h3 align="center">Engenharia de Software • Unicesumar</h3>
 
 <p>
