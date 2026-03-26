@@ -1,5 +1,5 @@
 
-<div align="center" style="background: linear-gradient(180deg, #F8C8DC, #ffffff); padding: 30px; border-radius: 10px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
 
 <h1>Mariana Lima</h1>
 
