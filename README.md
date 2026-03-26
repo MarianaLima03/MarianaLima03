@@ -1,7 +1,22 @@
 
-Eu sou Mariana Moreira Lima, uma estudante de Engenharia de Software 
+<div align="center" style="background: linear-gradient(180deg, #F8C8DC, #ffffff); padding: 30px; border-radius: 10px;">
 
-## 🌐 Conecte-se comigo:
+<h1>Mariana Lima</h1>
+
+<h3>Engenharia de Software • Unicesumar</h3>
+
+<p>
+Me chamo Mariana Lima, sou estudante de Engenharia de Software (5º semestre) pela Unicesumar.
+Tenho grande interesse em desenvolvimento Front-end e busco me aprofundar cada vez mais nessa área,
+explorando novas tecnologias e criando interfaces modernas e funcionais.
+
+Sou apaixonada por tecnologia e gosto de transformar ideias em soluções reais através da programação,
+sempre buscando evoluir e aprender algo novo a cada dia.
+</p>
+
+</div>
+
+<h1>🌐 Conecte-se comigo:</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariana-lima-642844345" target="_blank">
