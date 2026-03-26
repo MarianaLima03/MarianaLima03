@@ -1,9 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=header"/><h1 align="center">Mariana Lima</h1>
 
-<h1>Mariana Lima</h1>
-
-<h3>Engenharia de Software • Unicesumar</h3>
+<h3 align="center">Engenharia de Software • Unicesumar</h3>
 
 <p>
 Me chamo Mariana Lima, sou estudante de Engenharia de Software (5º semestre) pela Unicesumar.
