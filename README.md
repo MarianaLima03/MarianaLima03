@@ -7,7 +7,7 @@
 <h3 align="center">Engenharia de Software • Unicesumar</h3>
 
 <p>
-Me chamo Mariana Lima, sou estudante de Engenharia de Software (5º semestre) pela Unicesumar.
+Me chamo Mariana Lima, sou estudante de Engenharia de Software (6º semestre) pela Unicesumar.
 Tenho grande interesse em desenvolvimento Front-end e busco me aprofundar cada vez mais nessa área,
 explorando novas tecnologias e criando interfaces modernas e funcionais. Sou apaixonada por tecnologia e gosto de transformar ideias em soluções reais através da programação,sempre buscando evoluir e aprender algo novo a cada dia.</p>
 
